@@ -1,0 +1,213 @@
+theme: event
+
+defaultContentLanguage: en
+languages:
+    _merge: deep
+    en:
+        disabled: false
+        menus:
+            main:
+#                - identifier: about
+#                  pageRef: /about
+#                  weight: 10
+                - identifier: sessions
+                  pageRef: /sessions
+                  weight: 20
+#                - identifier: speakers
+#                  pageRef: /speakers
+#                  weight: 30
+#                - identifier: location
+#                  pageRef: /location
+#                  weight: 40
+#                - identifier: code_of_conduct
+#                  pageRef: /code-of-conduct
+#                  weight: 60
+                - identifier: cursos
+                  pageRef: /cursos
+                  weight: 40
+                - identifier: sponsors
+                  pageRef: /sponsors
+                  weight: 50
+                - identifier: sesiones_tematicas
+                  pageRef: /sesiones-tematicas
+                  name: Sesiones temáticas
+                  weight: 20
+                - identifier: norma_autores
+                  pageRef: /guia-presentadores
+                  name: Guía para presentadores
+                  weight: 30
+#                - identifier: resumen-jornada
+#                  pageRef: /resumen
+#                  name: Resumen de la Jornada
+#                  weight: 60
+            footer:
+                - identifier: imprint
+                  pageRef: /imprint
+                  weight: 10
+                - identifier: privacy
+                  pageRef: /privacy-policy
+                  weight: 20
+            secondary:
+                - identifier: about
+                  pageRef: /about
+                  weight: 10
+                  params:
+                      description: |
+                          Learn more about our mission, values, and the people behind our organization.
+                          The "About Us" page provides insights into who we are, what we do,
+                          and why we’re passionate about our work.
+                - identifier: speakers
+                  pageRef: /speakers
+                  weight: 30
+                  params:
+                      description: |
+                          Meet our distinguished speakers who will be sharing their expertise.
+                          Learn more about their backgrounds and what they will discuss.
+                - identifier: location
+                  pageRef: /location
+                  weight: 40
+                  params:
+                      description: |
+                          Find out where the event will take place.
+                          This section provides details on the venue, directions, and nearby accommodations.
+                - identifier: code_of_conduct
+                  pageRef: /code-of-conduct
+                  weight: 60
+                  params:
+                      description: |
+                          Read about the code of conduct for our event.
+                          This section outlines the expectations for participant behavior and event policies.
+        params:
+            # Open Graph / X (Twitter) Cards
+            description: |
+                III Jornada de Hidrología
+            themes:
+                event:
+                    slogan: Agua para la Paz
+                    location: Pucón
+                    description: |
+                        Las **Jornadas de la Hidrología en Chile** son un encuentro anual orientado a fortalecer el vínculo entre la investigación científica, la práctica profesional y la gestión pública del agua. Este espacio busca reunir a **investigadores**, **profesionales** del sector público y privado, y **estudiantes** interesados en los desafíos actuales y futuros de la **hidrología** en el país. Es una oportunidad para revisar el estado del arte, identificar brechas de conocimiento y promover estrategias que deriven de la evidencia científica para la gestión sostenible de los recursos hídricos.
+
+
+                        La **III Jornada de Hidrología** será un espacio donde hidrólogas e 
+                        hidrólogos, en diferentes etapas de su carrera, podrán **intercambiar
+                        experiencias y enterarse de los avances recientes** en temas como:
+                        - el monitoreo, modelación y gestión de recursos hídricos
+                        - análisis de eventos extremos
+                        - diseño hidrológico
+                        - gestión de riesgos
+                        - desafíos en un contexto de clima cambiante e incertidumbre
+
+                    locationDescription: |
+                        En el corazón de La Araucanía, entre **montañas, lagos y volcanes**, Pucón se alza como el escenario perfecto para la III Jornada de Hidrología en Chile. Este destino no solo invita a reflexionar sobre el agua, sino también a vivirla: fluyendo en sus ríos, cayendo en sus cascadas y respirándose en cada rincón.
+
+                        Aquí, la inspiración brota con la misma fuerza que el **volcán Villarrica**, los senderos del Parque Nacional Huerquehue y las aguas termales que emergen entre bosques nativos.
+
+                        Después de las sesiones y presentaciones, podrás desconectarte con **panoramas únicos**: navegar por el Lago Villarrica, recorrer miradores, o simplemente disfrutar de una noche frente al fuego con vistas al volcán.
+                    auxDescription: |
+                        Es un agrado comunicarles que recibimos cerca de **60 trabajos** y aproximadamente **100 inscritos** en total.
+
+                        Dentro de la **semana del 15 al 19 de Diciembre** esperamos enviar los correos confirmando la **aceptación de los trabajos**, sugerencias de mejora, la sesión en la que finalmente quedó aceptado, y la modalidad en que será presentado  el trabajo (presentación oral o póster).
+
+                        **¡Esperamos vernos en Enero!**
+                    auxTitle: Actualización
+                    auxSlogan: Estado de la convocatoria
+params:
+    # Open Graph / X (Twitter) Cards
+    images:
+        - logos/medicon-512.jpg
+    themes:
+        event:
+            sessionizeId: jtcrm9tx
+            title: III Jornada de Hidrología
+            shortTitle: Inicio
+            startDate: 2026-01-21 08:30:00
+            endDate: 2026-01-23
+            address:
+                - Caupolicán 78
+                - Pucón
+                - Región de La Araucanía
+                - Chile
+            map:
+                embeddableMapUrl: //umap.openstreetmap.fr/en/map/medialesson-gmbh_1105977?scrollWheelZoom=false
+                viewLargerMapUrl: //umap.openstreetmap.fr/en/map/medialesson-gmbh_1105977
+                # Link to edit the map: https://umap.openstreetmap.fr/en/map/anonymous-edit/1105977:HjtVVnbwCn6Yi3O02DTPnspzuyoHvP_Kn-M9rE53eE8
+            callToAction:
+                eventbrite:
+#                    eventId: 976108886957
+                other:
+                    url: "https://drive.google.com/file/d/1w5VmZ-Lwz8llZg0Xa6hixNjBjw6RHKeh/view?usp=sharing"
+                    urlForms: "/resumen"
+                enableBanner: true
+#            socialLinks:
+#                xUrl: https://x.com/medialesson
+#                facebookUrl: https://www.facebook.com/medialesson/
+#                linkedinUrl: https://de.linkedin.com/company/medialesson-gmbh
+            images:
+                logo: logos/Logo_YHS-CL.png
+                titleBackground: images/pexels-caleboquendo-3023317.webp
+                location: images/pucon_img_web.jpeg
+                locationImg: images/pucon_img_web.jpeg
+            sponsors:
+                - logo: logos/auspiciadores-AQUAFLOW.png
+                  url: https://aquaflow.cl/
+                  name: 'AQUAFLOW'
+                - logo: logos/auspiciadores-Montgomery.png
+                  url: https://elmontgomery.com/es/
+                  name: 'Montgomery & Associates'
+                - logo: logos/auspiciadores-IECOM_Logo.png
+                  url: "https://"
+                  name: 'IECOM'
+                - logo: logos/auspiciadores-Vertientes_de_Pucon.png
+                  url: "https://www.vertientesdepucon.com/"
+                  name: "Vertientes de Pucón"
+            partners:
+                - logo: logos/patrocinadores-IAHS-logo.png
+                  url: https://iahs.info/
+                  name: 'IAHS'
+                - logo: logos/patrocinadores-Logo_DIC_UChile.png
+                  url: https://ingcivil.uchile.cl/
+                  name: 'DIC UChile'
+                - logo: logos/patrocinadores-logo_UdeC.png
+                  url: https://www.udec.cl/pexterno/
+                  name: 'UdeC'
+                - logo: logos/patrocinadores-logo_UDP.png
+                  url: https://eoc.udp.cl/
+                  name: 'UDP'
+            organizers:
+                - name: UFRO - Ingeniería
+                  url: https://www.ufro.cl
+                  logo: logos/organizadores-logo_UFRO.png
+                - name: UFRO - Facultad de Ingeniería y Ciencias
+                  url: https://fica.ufro.cl/
+                  logo: logos/organizadores-logo_FICA.png
+                - name: UFRO - Doctorado en Recursos Naturales
+                  url: https://doctoradorrnn.ufro.cl/
+                  logo: logos/organizadores-logo-doctorado-rrnn.png
+                - name: Kimün-Ko
+                  url: https://kimunko.ufro.cl
+                  logo: logos/organizadores-logo_kimunko_vMZB.png
+
+#                - '00000000-0000-0000-0000-000000000001'
+#                - '00000000-0000-0000-0000-000000000004'
+#                - '00000000-0000-0000-0000-000000000002'
+            featuredSessions:
+                - '729572'
+                - '729576'
+                - '729579'
+            colors:
+                primaryLighter: '#5CB1E8'
+                primary: '#0d81be'
+                primaryDarker: '#143e8b'
+                track: '#15B8CA'
+ignoreLogs: ['warning-partial-superfluous-prefix', 'warning-goldmark-raw-html']
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    parser:
+      attribute: true
+caches:
+  images:
+    dir: :cacheDir/images
