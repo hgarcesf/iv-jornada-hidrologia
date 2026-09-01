@@ -20,11 +20,11 @@ params:
     themes:
         event:
             sessionizeId: oppyjope
-            title: III Jornada de Hidrología
+            title: IV Jornada de Hidrología
             shortTitle: testcon
             startDate: 2045-06-01
             endDate: 2045-06-03
-            location: Pucón, Región de La Araucanía
+            location: Santiago, Región Metropolitana
             address:
                 - Building
                 - Street

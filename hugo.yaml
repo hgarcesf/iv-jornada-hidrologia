@@ -80,16 +80,16 @@ languages:
         params:
             # Open Graph / X (Twitter) Cards
             description: |
-                III Jornada de Hidrología
+                IV Jornada de Hidrología
             themes:
                 event:
                     slogan: Agua para la Paz
-                    location: Pucón
+                    location: Santiago
                     description: |
                         Las **Jornadas de la Hidrología en Chile** son un encuentro anual orientado a fortalecer el vínculo entre la investigación científica, la práctica profesional y la gestión pública del agua. Este espacio busca reunir a **investigadores**, **profesionales** del sector público y privado, y **estudiantes** interesados en los desafíos actuales y futuros de la **hidrología** en el país. Es una oportunidad para revisar el estado del arte, identificar brechas de conocimiento y promover estrategias que deriven de la evidencia científica para la gestión sostenible de los recursos hídricos.
 
 
-                        La **III Jornada de Hidrología** será un espacio donde hidrólogas e 
+                        La **III Jornada de Hidrología** será un espacio donde hidrólogas e
                         hidrólogos, en diferentes etapas de su carrera, podrán **intercambiar
                         experiencias y enterarse de los avances recientes** en temas como:
                         - el monitoreo, modelación y gestión de recursos hídricos
@@ -119,14 +119,14 @@ params:
     themes:
         event:
             sessionizeId: jtcrm9tx
-            title: III Jornada de Hidrología
+            title: IV Jornada de Hidrología
             shortTitle: Inicio
-            startDate: 2026-01-21 08:30:00
-            endDate: 2026-01-23
+            startDate: 2027-01-21 08:30:00
+            endDate: 2027-01-23
             address:
-                - Caupolicán 78
-                - Pucón
-                - Región de La Araucanía
+                - Av. Beauchef 850
+                - Santiago
+                - Región Metropolitana
                 - Chile
             map:
                 embeddableMapUrl: //umap.openstreetmap.fr/en/map/medialesson-gmbh_1105977?scrollWheelZoom=false
