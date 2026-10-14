@@ -81,18 +81,22 @@ layout: default
 
 <div class="section-container">
   <div class="section-text">
-    <h3>Sesión 1 - Extremos hidrometerológicos: caracterización, modelación y pronósticos</h3>
-    <h5><strong>Convener: Mauricio Zambrano-Bigiarini</strong></h5>
-    <img class="event-highlights-section__logo2" src="sesion1.png" alt="Sesión 1 - Extremos hidrometerológicos">
+    <h3>Sesión 1: "Sociohidrología: gobernanza, participación y decisiones sobre el agua"</h3>
+    <h5><i>Convener:</i> Anahí Ocampo (Facultad de Ciencias Forestales y de Conservación de la Naturaleza, Universidad de Chile)</h5>
+    <h5><i>Co-conveners:</i> María Cristina Fragkou (Facultad de Arquitectura y Urbanismo, Universidad de Chile), Carlos Guzmán (Departamento de Ingeniería Hidráulica y Ambiental (DIHA), Pontificia Universidad Católica de Chile)</h5>
+    <img class="event-highlights-section__logo2" src="Sesion1_Sociohidrologia.jpeg" alt="Sesión 1 - Sociohidrología">
     <p>
-    Esta sesión se centrará en los avances científicos y tecnológicos sobre modelación hidrológica, orientados a comprender, predecir y monitorear eventos hidrometeorológicos extremos, especialmente inundaciones y sequías. Se invita a presentar contribuciones que aborden, entre otros, los siguientes temas:
+    En esta sesión se presentarán trabajos con enfoques interdisciplinarios orientados a comprender los complejos problemas del agua desde la inclusión de la dimensión humana  como parte indivisible del ciclo hidrológico. En particular, se invita a propuestas que exploren las interacciones dinámicas entre los sistemas hídricos y las sociedades humanas, analizando la retroalimentación bidireccional entre las decisiones sociales y la disponibilidad y gestión del agua.
+    </p>
+    <p>
+    Se considera la presentación de trabajos que aborden los siguientes temas:
     </p>
     <ul>
-      <li>Metodologías de modelación hidrológica e hidrometeorológica de eventos extremos.</li>
-      <li>Uso de nuevos conjuntos de datos, algoritmos y técnicas de asimilación de datos.</li>
-      <li>Desarrollo de enfoques integrados de observación y simulación.</li>
-      <li>Modelos (semi)distribuidos y/o acoplados que mejoren la precisión, resolución temporal y espacial, y robustez de las simulaciones.</li>
-      <li>Análisis de sensibilidad e incertidumbre de los modelos utilizados.</li>
+      <li>Metodologías y enfoques para la integración social y ambiental en la exploración de problemas de la hidrología.</li>
+      <li>Modelación hidrológica participativa, <i>agent-based modeling</i>, y decisión multicriterio para la gestión de cuencas.</li>
+      <li>Aspectos socioculturales de los problemas del agua en enfoques de Servicios ecosistémicos, capital natural y valores del agua.</li>
+      <li>Estudios de gobernanza del agua, justicia ambiental y adaptación en las cuencas.</li>
+      <li>Integración de conocimientos, datos y toma de decisiones, ciencia ciudadana.</li>
     </ul>
   </div>
 </div>
@@ -101,34 +105,21 @@ layout: default
 
 <div class="section-container">
   <div class="section-text">
-    <h3>Hidrología de Montaña: monitoreo, modelación e interacción de procesos</h3>
-    <h5><strong>Convener: Sebastián Krogh</strong></h5>
-    <img class="event-highlights-section__logo2" src="sesion2.png" alt="Sesión 2 - Hidrología de montaña">
+    <h3>Sesión 2: "Procesos hidrometeorológicos: dinámica superficie–atmósfera en montaña, valle y costa"</h3>
+    <h5><i>Convener:</i>: Sebastián Krögh (Departamento de Recursos hídricos, Universidad de Concepción)</h5>
+    <h5><i>Co-conveners:</i>: Lucía Scaff (Departamento de Geofísica, Universidad de Concepción), Camila Álvarez (Centro de Ciencia del Clima y la Resiliencia, CR2)</h5>
+    <img class="event-highlights-section__logo2" src="Sesion2_ProcesosHidrometeorologicos.jpeg" alt="Sesión 2 - Procesos hidrometeorológicos">
     <p>
-    Esta sesión incluye trabajos relacionados con el estudio de la hidrología de montaña que contribuyan a un mejor entendimiento y cuantificación de la dinámica hidrológica de las cuencas cordilleranas. Análisis empíricos de observaciones hidrometeorológicas en cuencas de montaña (e.g., nieve y glaciares, precipitación, viento, humedad del suelo y caudales) para mejorar el entendimiento de procesos físicos y/o la calibración de modelos. Aplicación de modelos hidrológicos (agregados, semidistribuidos o distribuidos) para análisis de diagnóstico de caudales de deshielo, eventos extremos, disponibilidad de recursos hídricos e interacción de procesos hidrológicos. Proyecciones bajo escenarios de cambio climático y otras aplicaciones afines.
+    Esta sesión se centra en la relación de fenómenos meteorológicos con la hidrología y sus procesos a distintas escalas espaciales (ladera, cuenca y sinóptica) y temporales (subdiaria, diaria, mensual e interanual). Se presentarán análisis empíricos de observaciones hidrometeorológicas y modelación numérica en sistemas de montaña, el valle central y zonas costeras, con el fin de mejorar la comprensión y caracterización de procesos físicos dominantes bajo condiciones climáticas históricas y escenarios de cambio climático y uso de suelo. Así también, se espera contar con aplicaciones de modelos hidrológicos, meteorológicos y de interacción superficie-atmósfera para análisis de diagnóstico de eventos extremos, disponibilidad hídrica e interacción entre procesos.
     </p>
-  </div>
-</div>
-
----
-
-<div class="section-container">
-  <div class="section-text">
-    <h3>Sesión 3 - Hidroinformática: análisis de datos, pronósticos, aprendizaje automático y evaluación estadística</h3>
-    <h5><strong>Convener: Alonso Pizarro</strong></h5>
-    <img class="event-highlights-section__logo2" src="sesion3.png" alt="Sesión 3 - Hidrología estocástica">
     <p>
-    Durante las últimas décadas, la hidroinformática ha emergido como un campo de investigación consolidado en las ciencias hidrológicas. Se centra en el desarrollo y la aplicación de modelos matemáticos, tecnologías de la información y herramientas de inteligencia artificial aplicados a la hidrología. En la actualidad, la hidroinformática aborda la recolección, gestión, análisis y visualización de grandes volúmenes de datos (Big Data) provenientes de sensores remotos, modelos de la Tierra y del clima, así como el diseño de herramientas y tecnologías orientadas a soluciones de gestión inteligente del agua. En el contexto chileno, marcado por una alta variabilidad hidroclimática, la hidroinformática ofrece enfoques y soluciones claves para el análisis, la predicción y la toma de decisiones en sistemas hídricos complejos. Esta sesión tiene como objetivo constituir un foro activo de presentación y discusión sobre la integración y la aplicación adecuada de técnicas y tecnologías emergentes en distintos contextos relacionados con el agua, con énfasis en problemáticas y experiencias relevantes para Chile y América Latina.
-    Temáticas de la sesión:
+        Se considerarán trabajos en torno a las siguientes líneas:
     </p>
     <ul>
-      <li>Modelos predictivos y exploratorios basados en estadística, aprendizaje automático y ciencia de datos.</li>
-      <li>Avances metodológicos en el pronóstico de variables hidrológicas y meteorológicas.</li>
-      <li>Asimilación de datos y corrección de sesgo.</li>
-      <li>Métodos de optimización asociados a procedimientos de búsqueda heurística (algoritmos genéticos y evolutivos, búsquedas aleatorizadas y adaptativas) y sus aplicaciones en hidrología.</li>
-      <li>Enfoques multimodelo y modelos híbridos, que integran modelos basados en procesos físicos con modelos basados en datos.</li>
-      <li>Métodos innovadores para el análisis y la cuantificación de incertidumbre y sensibilidad de los modelos.</li>
-      <li>Gemelos Digitales (Digital Twins) en hidrología y recursos hídricos.</li>
+      <li>Diagnósticos y cuantificación empírica de interacciones superficie-atmósfera basado en observaciones.</li>
+      <li>Estudios de fenómenos meteorológicos: variación de la Isoterma 0°C, gradiente orográfico de precipitaciones, inversiones térmicas, ciclos diurnos, entre otros.</li>
+      <li>Análisis de procesos hidrológicos, disponibilidad hídrica y análisis de eventos extremos, utilizando modelación hidrológica acoplada con modelación atmosférica.</li>
+      <li>Impacto del cambio climático en procesos hidrometeorológicos y los recursos hídricos.</li>
     </ul>
   </div>
 </div>
@@ -137,23 +128,82 @@ layout: default
 
 <div class="section-container">
   <div class="section-text">
-    <h3>Sesión 4 - Diseño y aplicaciones hidrológicas en ingeniería: innovaciones para la toma de decisiones, gestión de amenazas y diseño de infraestructura hidráulica</h3>
-    <h5><strong>Convener: Eduardo Muñoz-Castro</strong></h5>
-    <img class="event-highlights-section__logo2" src="sesion4.png" alt="Sesión 4 - Diseño hidrológico en ingeniería">
+    <h3>Sesión 3: "Pronóstico hidrometeorológico: métodos, desempeño e incertidumbre"</h3>
+    <h5><i>Convener:</i>: Paul Muñoz (Departamento de Recursos Hídricos, Universidad de Concepción)</h5>
+    <h5><i>Co-conveners:</i>: Cristián Chadwick (Universidad Adolfo Ibáñez), María de los Ángeles Ibáñez (Pontificia Universidad Católica de Chile)</h5>
+    <img class="event-highlights-section__logo2" src="Sesion3_PronosticoHidrometeorologico.jpeg" alt="Sesión 3 - Pronóstico hidrometeorológico">
     <p>
-    Esta sesión presentará los avances en las metodologías orientadas al diseño hidrológico, la estimación de parámetros clave, como precipitaciones y caudales asociados a diferentes periodos de retorno, experiencias reales de gestión operacional durante eventos hidrometeorológicos extremos, estudios aplicados, monitoreo de variables hidrometeorológicas e impactos de los cambios hidrológicos en la calidad del agua.
+        Esta sesión se centrará en avances científicos y metodológicos para el pronóstico de variables hidrometeorológicas en diferentes escalas espaciales y temporales, así como en la evaluación y mejora de su desempeño. Se invita a presentar contribuciones que aborden el desarrollo, implementación y evaluación de sistemas y metodologías de pronóstico, desde enfoques basados en procesos físicos hasta métodos estadísticos, aprendizaje automático e inteligencia artificial.
+    Se consideran, entre otros, los siguientes temas:
     </p>
     <ul>
-      <li>Nuevas metodologías para el diseño y verificación de infraestructura hidráulica en un contexto de variabilidad climática.</li>
-      <li>Hidrología urbana y gestión de riesgos de inundaciones y sequías durante contingencias.</li>
-      <li>Decisiones operacionales basadas en pronósticos y en lecciones aprendidas de proyectos reales.</li>
-      <li>Casos interdisciplinarios entre la academia y los sectores público y privado.</li>
-      <li>Experiencias orientadas a fortalecer la resiliencia de la infraestructura hidráulica.</li>
-      <li>Aplicaciones de productos meteorológicos grillados en estimaciones hidrológicas.</li>
-      <li>Hidrología aplicada al estudio de la calidad del agua.</li>
-      <li>Impactos del cambio en el uso de suelos en la hidrología a escala de cuenca.</li>
-      <li>Sistemas de monitoreo de variables hidrometeorológicas.</li>
-      <li>Gobernanza hídrica.</li>
+      <li>Pronósticos determinísticos, probabilísticos y por conjuntos de variables hidrológicas y meteorológicas, desde el <i>nowcasting</i> (horas), pronósticos de plazo intermedio (días), hasta horizontes de mayor plazo (semanas o meses).</li>
+      <li>Modelos de pronóstico basados en procesos, estadísticos, de aprendizaje automático e inteligencia artificial, incluyendo enfoques híbridos y acoplados.</li>
+      <li>Asimilación de datos, postprocesamiento, corrección de sesgo y combinación de pronósticos y productos de predicción numérica del tiempo.</li>
+      <li>Predictibilidad, verificación y cuantificación de la incertidumbre de los pronósticos.</li>
+      <li>Pronóstico de eventos hidrometeorológicos extremos, sistemas de alerta temprana y aplicaciones para la toma de decisiones.</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+<div class="section-container">
+  <div class="section-text">
+    <h3>Sesión 4: "Eco-hidrología y gestión ambiental: ecosistemas, calidad y caudales ecológicos"</h3>
+    <h5><i>Convener:</i> María Sol Lisboa (Departamento de Obras Civiles, Universidad Técnica Federico Santa María)</h5>
+    <h5><i>Co-conveners:</i>: Cristina Contreras (Departamento de Obras Civiles, Universidad Técnica Federico Santa María), Karina Soto (Departamento de Obras Civiles, Universidad Técnica Federico Santa María), Marcos Machioli (Instituto de Ciencias Agroalimentarias, Animales y Ambientales, Universidad de O’Higgins)</h5>
+    <img class="event-highlights-section__logo2" src="Sesion4_HidrologiaAmbiental.jpeg" alt="Sesión 4 - Eco-hidrología">
+    <p>
+    Esta sesión reúne trabajos que estudian las relaciones entre los procesos hidrológicos y los sistemas ecológicos, y cómo ese conocimiento se traduce en decisiones de gestión, regulación y conservación. Se invitan contribuciones que muestren cómo las observaciones de campo, el monitoreo de calidad y cantidad de agua, la teledetección y el modelamiento permiten definir caudales ambientales, evaluar el estado de los ecosistemas acuáticos y ribereños, diseñar acciones de restauración y respaldar instrumentos normativos. Interesan especialmente los casos de Chile y la región, en un contexto de megasequía, presión creciente sobre las cuencas y nuevas exigencias legales para proteger el agua en su dimensión ecosistémica.
+    Se considerarán trabajos que se enmarquen en los siguientes ejes temáticos:
+    </p>
+    <ul>
+      <li>Ecohidrología: interacciones agua–vegetación–suelo, humedales, vegas y bofedales altoandinos, bosques y rendimiento hídrico, y aguas subterráneas que sostienen ecosistemas.</li>
+      <li>Calidad de aguas: monitoreo fisicoquímico y biológico, contaminantes emergentes, drenaje ácido y minería, nutrientes y eutrofización, e indicadores biológicos.</li>
+      <li>Caudales ecológicos: metodologías de estimación, aplicación del caudal ecológico mínimo tras la reforma al Código de Aguas (Ley 21.435) y régimen de caudales más allá del valor mínimo.</li>
+      <li>Restauración hidrológica: restauración de ríos, humedales y cuencas, soluciones basadas en la naturaleza, y evaluación de efectividad con datos.</li>
+      <li>Ecosistemas bajo estrés hídrico: impacto ecológico y la respuesta de gestión ante sequías, variaciones en salares y humedales frente a la extracción, y conectividad fluvial.</li>
+      <li>Hidrología para la gestión ambiental: apoyo técnico al SEIA, normas secundarias de calidad, humedales urbanos y planes estratégicos de recursos hídricos en cuencas.</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+<div class="section-container">
+  <div class="section-text">
+    <h3>Sesión 5: "Proyecciones hidroclimáticas: escenarios futuros e impactos del cambio climático en los recursos hídricos"</h3>
+    <h5><i>Convener:</i> Miguel Lagos Zúñiga (Departamento de Obras Civiles, Universidad Técnica Federico Santa María, Centro de Investigación Interdisciplinaria en Riesgo, Resiliencia y Recuperación ante Desastres (CIGIDEN R+)</h5>
+    <h5><i>Co-conveners:</i> Lucía Scaff (Departamento de Geofísica, Universidad de Concepción), Marcia Paredes (Advanced Mining Technology Center, Universidad de Chile), Cristian Martínez Villalobos (Universidad Adolfo Ibáñez)</h5>
+    <img class="event-highlights-section__logo2" src="Sesion5_ProyeccionesHidroclimaticas.jpeg" alt="Sesión 5 - Proyecciones hidroclimáticas">
+    <p>
+    El cambio climático y la variabilidad climática natural plantean nuevos desafíos para la comprensión, cuantificación y gestión de los recursos hídricos. En este contexto, los estudios hidroclimáticos permiten avanzar en la caracterización de la variabilidad de los sistemas hidrológicos, en la comprensión de sus principales procesos y en la evaluación de sus posibles cambios bajo distintos escenarios climáticos.
+    </p>
+    <p>
+    Esta sesión busca reunir investigaciones que presenten avances metodológicos y aplicaciones en estudios hidroclimáticos, incorporando tanto el análisis de condiciones históricas y actuales como la evaluación de posibles cambios futuros. Se invita a presentar trabajos relacionados con observaciones y proyecciones hidroclimáticas, corrección de sesgos, uso de modelos climáticos de alta resolución, evaluación de impactos del cambio climático sobre los recursos hídricos, y nuevas metodologías para su cuantificación y la caracterización de incertidumbre. Finalmente, la sesión busca promover el intercambio de conocimientos y experiencias entre investigadores y profesionales que abordan los desafíos de la hidrología en un contexto de cambio climático, considerando tanto cambios en la disponibilidad y eventos extremos, como sus impactos en la planificación y gestión de infraestructura hídrica.
+    </p>
+  </div>
+</div>
+
+---
+
+<div class="section-container">
+  <div class="section-text">
+    <h3>Sesión 6: "Tecnología, datos y aplicaciones operacionales en hidrología"</h3>
+    <h5><i>Convener:</i> Eduardo Muñoz-Castro (Institute for Atmospheric and Climate Science, ETH Zurich)</h5>
+    <h5><i>Co-conveners:</i> Valentina Medel (Departamento de Geología, Universidad Santo Tomás); Daniel Ugalde (Senapred RM, Ministerio del Interior); Jorge Gironás (Departamento de Ingeniería Hidráulica y Ambiental, Pontificia Universidad Católica de Chile); Trinidad Henríquez (Departamento de Obras Civiles, Universidad Técnica Federico Santa María)</h5>
+    <img class="event-highlights-section__logo2" src="Sesion6_AplicacionesTecnologia.jpeg" alt="Sesión 6 - Aplicaciones en hidrología">
+    <p>
+    Esta sesión busca destacar aplicaciones innovadoras que mejoren la observación y la comprensión de la hidrología, fortalezcan la predicción y apoyen la toma de decisiones ante problemáticas como la disponibilidad y la seguridad hídricas, los eventos extremos y la adaptación al cambio climático. En particular, se buscan contribuciones orientadas al desarrollo y la aplicación de nuevas herramientas, metodologías y tecnologías para abordar los desafíos actuales y emergentes en las ciencias hidrológicas. Los trabajos enviados a esta sesión pueden abarcar, por ejemplo, las siguientes temáticas:
+    </p>
+    <ul>
+      <li>Decisiones operacionales basadas en pronósticos y lecciones aprendidas de proyectos reales.</li>
+      <li>Experiencias en el análisis de impactos generados por amenazas hidrometeorológicas (e.g., sequías, crecidas, avalanchas y aluviones), y en la gestión de riesgos pre y post contingencias y su mitigación.</li>
+      <li>Estudios inter- y transdisciplinarios entre la academia, los sectores público y privado y las comunidades para la gestión de los recursos hídricos.</li>
+      <li>Nuevas metodologías para el diseño y la verificación de la infraestructura hidráulica en un contexto de variabilidad climática.</li>
+      <li>Tecnologías para el monitoreo de variables hidrometeorológicas (e.g., sensores de bajo costo).</li>
+      <li>Plataformas y bases de datos de apoyo para el estudio de variables hidrometeorológicas y del ciclo del agua en Chile.</li>
     </ul>
   </div>
 </div>
