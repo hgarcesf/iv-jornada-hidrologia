@@ -175,18 +175,12 @@ params:
                   url: https://eoc.udp.cl/
                   name: 'UDP'
             organizers:
-                - name: UFRO - Ingeniería
-                  url: https://www.ufro.cl
-                  logo: logos/organizadores-logo_UFRO.png
-                - name: UFRO - Facultad de Ingeniería y Ciencias
-                  url: https://fica.ufro.cl/
-                  logo: logos/organizadores-logo_FICA.png
-                - name: UFRO - Doctorado en Recursos Naturales
-                  url: https://doctoradorrnn.ufro.cl/
-                  logo: logos/organizadores-logo-doctorado-rrnn.png
-                - name: Kimün-Ko
-                  url: https://kimunko.ufro.cl
-                  logo: logos/organizadores-logo_kimunko_vMZB.png
+                - name: Departamento de Ingeniería Civil U Chile
+                  url: https://ingcivil.uchile.cl/
+                  logo: logos/organizers/Logo_DIC_UChile.png
+                - name: AMTC U de Chile
+                  url: https://www.amtc.cl/
+                  logo: logos/sponsors/Logo_AMTC.png
 
 #                - '00000000-0000-0000-0000-000000000001'
 #                - '00000000-0000-0000-0000-000000000004'
