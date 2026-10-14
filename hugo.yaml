@@ -10,9 +10,9 @@ languages:
 #                - identifier: about
 #                  pageRef: /about
 #                  weight: 10
-                - identifier: sessions
-                  pageRef: /sessions
-                  weight: 20
+                # - identifier: sessions
+                #   pageRef: /sessions
+                #   weight: 20
 #                - identifier: speakers
 #                  pageRef: /speakers
 #                  weight: 30
@@ -22,9 +22,9 @@ languages:
 #                - identifier: code_of_conduct
 #                  pageRef: /code-of-conduct
 #                  weight: 60
-                - identifier: cursos
-                  pageRef: /cursos
-                  weight: 40
+                # - identifier: cursos
+                #   pageRef: /cursos
+                #   weight: 40
                 - identifier: sponsors
                   pageRef: /sponsors
                   weight: 50
@@ -83,20 +83,19 @@ languages:
                 IV Jornada de Hidrología
             themes:
                 event:
-                    slogan: Agua para la Paz
+                    slogan: "Del dato a la decisión: Hidrología para Chile"
                     location: Santiago
                     description: |
-                        Las **Jornadas de la Hidrología en Chile** son un encuentro anual orientado a fortalecer el vínculo entre la investigación científica, la práctica profesional y la gestión pública del agua. Este espacio busca reunir a **investigadores**, **profesionales** del sector público y privado, y **estudiantes** interesados en los desafíos actuales y futuros de la **hidrología** en el país. Es una oportunidad para revisar el estado del arte, identificar brechas de conocimiento y promover estrategias que deriven de la evidencia científica para la gestión sostenible de los recursos hídricos.
+                        Las **Jornada de Hidrología en Chile** son un encuentro anual orientado a fortalecer el vínculo entre la investigación científica, la práctica profesional y la gestión pública del agua. Este espacio busca reunir a **investigadores**, **profesionales** del sector público y privado, y **estudiantes** interesados en los desafíos actuales y futuros de la hidrología en el país. Es una oportunidad para revisar el estado del arte, identificar brechas de conocimiento y promover estrategias que deriven de la evidencia científica para la gestión sostenible de los recursos hídricos.
 
 
-                        La **III Jornada de Hidrología** será un espacio donde hidrólogas e
-                        hidrólogos, en diferentes etapas de su carrera, podrán **intercambiar
-                        experiencias y enterarse de los avances recientes** en temas como:
-                        - el monitoreo, modelación y gestión de recursos hídricos
-                        - análisis de eventos extremos
-                        - diseño hidrológico
-                        - gestión de riesgos
-                        - desafíos en un contexto de clima cambiante e incertidumbre
+                        La IV Jornada de Hidrología será un espacio donde hidrólogas e hidrólogos, en diferentes etapas de su carrera, podrán intercambiar experiencias y enterarse de avances recientes en temas como:
+                        - Procesos hidrometeorológicos: dinámica superficie–atmósfera en montaña, valle y costa
+                        - Pronóstico hidrometeorológico: métodos, desempeño e incertidumbre
+                        - Eco-hidrología y gestión ambiental: ecosistemas, calidad y caudales ecológicos
+                        - Proyecciones hidroclimáticas: escenarios futuros e impactos del cambio climático en los recursos hídricos
+                        - Tecnología, datos y aplicaciones operacionales en hidrología
+                        - Sociohidrología: gobernanza, participación y decisiones sobre el agua
 
                     locationDescription: |
                         En el corazón de La Araucanía, entre **montañas, lagos y volcanes**, Pucón se alza como el escenario perfecto para la III Jornada de Hidrología en Chile. Este destino no solo invita a reflexionar sobre el agua, sino también a vivirla: fluyendo en sus ríos, cayendo en sus cascadas y respirándose en cada rincón.
@@ -112,6 +111,9 @@ languages:
                         **¡Esperamos vernos en Enero!**
                     auxTitle: Actualización
                     auxSlogan: Estado de la convocatoria
+                    nSessions: 6
+                    nDays: 3
+                    locationAux: Santiago de Chile
 params:
     # Open Graph / X (Twitter) Cards
     images:
@@ -121,8 +123,8 @@ params:
             sessionizeId: jtcrm9tx
             title: IV Jornada de Hidrología
             shortTitle: Inicio
-            startDate: 2027-01-21 08:30:00
-            endDate: 2027-01-23
+            startDate: 2027-01-20 08:30:00
+            endDate: 2027-01-22
             address:
                 - Av. Beauchef 850
                 - Santiago
@@ -136,8 +138,8 @@ params:
                 eventbrite:
 #                    eventId: 976108886957
                 other:
-                    url: "https://drive.google.com/file/d/1w5VmZ-Lwz8llZg0Xa6hixNjBjw6RHKeh/view?usp=sharing"
-                    urlForms: "/resumen"
+                    # url: "https://drive.google.com/file/d/1w5VmZ-Lwz8llZg0Xa6hixNjBjw6RHKeh/view?usp=sharing"
+                    urlForms: "/"
                 enableBanner: true
 #            socialLinks:
 #                xUrl: https://x.com/medialesson
@@ -149,31 +151,40 @@ params:
                 location: images/pucon_img_web.jpeg
                 locationImg: images/pucon_img_web.jpeg
             sponsors:
-                - logo: logos/auspiciadores-AQUAFLOW.png
-                  url: https://aquaflow.cl/
-                  name: 'AQUAFLOW'
-                - logo: logos/auspiciadores-Montgomery.png
+                - logo: logos/sponsors/Logo_Montgomery.webp
                   url: https://elmontgomery.com/es/
                   name: 'Montgomery & Associates'
-                - logo: logos/auspiciadores-IECOM_Logo.png
+                - logo: logos/sponsors/Logo_Riverine.png
+                  url: "https://riverine.cl/"
+                  name: "Riverine"
+                - logo: logos/sponsors/Logo_Iecom.png
                   url: "https://"
                   name: 'IECOM'
-                - logo: logos/auspiciadores-Vertientes_de_Pucon.png
-                  url: "https://www.vertientesdepucon.com/"
-                  name: "Vertientes de Pucón"
+                - logo: logos/sponsors/Logo_AMTC.png
+                  url: https://www.amtc.cl/
+                  name: AMTC U de Chile
             partners:
-                - logo: logos/patrocinadores-IAHS-logo.png
-                  url: https://iahs.info/
-                  name: 'IAHS'
-                - logo: logos/patrocinadores-Logo_DIC_UChile.png
+                - name: Departamento de Ingeniería Civil (U. de Chile)
                   url: https://ingcivil.uchile.cl/
-                  name: 'DIC UChile'
-                - logo: logos/patrocinadores-logo_UdeC.png
-                  url: https://www.udec.cl/pexterno/
-                  name: 'UdeC'
-                - logo: logos/patrocinadores-logo_UDP.png
-                  url: https://eoc.udp.cl/
-                  name: 'UDP'
+                  logo: logos/organizers/Logo_DIC_UChile.png
+                - name: Advanced Mining Technology Center (U. de Chile)
+                  url: https://www.amtc.cl/
+                  logo: logos/sponsors/Logo_AMTC.png
+                - name: Departamento de Recursos Hídricos (U. de Concepción)
+                  url: https://fia.udec.cl/departamento-de-recursos-hidricos/
+                  logo: logos/partners/Logo_UConcepcion.png
+                - name: Departamento de Ingeniería Civil y Ambiental (U. del Bío-Bío)
+                  url: https://dica.ubiobio.cl/
+                  logo: logos/partners/Logo_UBiobio.png
+                - name: Universidad Técnica Federico Santa María
+                  url: https://usm.cl/
+                  logo: logos/partners/Logo_USM.png
+                - name: Escuela de Geología, Facultad de Ingeniería y Negocios (Universidad Santo Tomás)
+                  url: https://www.ust.cl/carreras/geologia/
+                  logo: logos/partners/Logo_UST.png
+                - name: Universidad de La Frontera
+                  url: https://www.ufro.cl/
+                  logo: logos/partners/Logo_UFRO.png
             organizers:
                 - name: Departamento de Ingeniería Civil U Chile
                   url: https://ingcivil.uchile.cl/

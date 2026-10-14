@@ -2,7 +2,7 @@ countdown.days: días
 countdown.hours: horas
 countdown.minutes: minutos
 countdown.seconds: segundos
-cta_banner.message: Envío de abstracts hasta el 28 de noviembre!
+# cta_banner.message: Envío de abstracts hasta el 28 de noviembre!
 cta_button.get_ticket: Revisa el programa actualizado!
 cta_section.heading: Inspira, comparte y transforma la manera en que entendemos los recursos hídricos
 #cta_section.subheading: Regístrate ahora!

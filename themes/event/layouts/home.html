@@ -6,17 +6,27 @@
         "startDate" .Site.Params.themes.event.startDate
         "backgroundImage" .Site.Params.themes.event.images.titleBackground
         "eventbriteId" .Site.Params.themes.event.callToAction.eventbrite.eventId
-        "ctaUrl" .Site.Params.themes.event.callToAction.other.url
         )
     }}
 
-    {{ partial "sections/event-highlights.html" (
+    <!--{{- partial "sections/event-title.html"
+        (dict
+        "title" .Site.Params.themes.event.title
+        "location" .Site.Params.themes.event.location
+        "startDate" .Site.Params.themes.event.startDate
+        "backgroundImage" .Site.Params.themes.event.images.titleBackground
+        "eventbriteId" .Site.Params.themes.event.callToAction.eventbrite.eventId
+        "ctaUrl" .Site.Params.themes.event.callToAction.other.url
+        )
+    }}-->
+
+    <!--{{ partial "sections/event-highlights.html" (
         dict
         "title" .Site.Params.themes.event.auxTitle
         "subtitle" .Site.Params.themes.event.auxSlogan
         "description" .Site.Params.themes.event.auxDescription
         "logo" .Site.Params.themes.event.images.logo)
-    }}
+    }}-->
 
     {{ $eventStartDate := or .Site.Params.themes.event.startDate now | time }}
     {{ $eventEndDate := or .Site.Params.themes.event.endDate now | time }}
@@ -27,17 +37,17 @@
         "subtitle" .Site.Params.themes.event.slogan
         "description" .Site.Params.themes.event.description
         "logo" .Site.Params.themes.event.images.logo
-        "numberOfSessions" 4
-        "numberOfDays" 3
-        "location" "UFRO, Campus Pucón" )
+        "numberOfSessions" .Site.Params.themes.event.nSessions
+        "numberOfDays" .Site.Params.themes.event.nSessions
+        "location" .Site.Params.themes.event.locationAux )
     }}
 
 
-    {{/* --- inicio afiche --- */}}
+    <!--{{/* --- inicio afiche --- */}}
     {{- $posterPath := "images/Afiche_Jornada_Hidrologia_web.png" -}}
-    {{- $posterAlt  := "Afiche de la Jornada de Hidrología" -}}
+    {{- $posterAlt  := "Afiche de la Jornada de Hidrología" -}}-->
 
-    {{- $poster := resources.Get $posterPath -}}
+    <!--{{- $poster := resources.Get $posterPath -}}
     {{- if $poster }}
       {{- $p480  := $poster.Resize "480x webp" -}}
       {{- $p960  := $poster.Resize "960x webp" -}}
@@ -61,7 +71,7 @@
         </picture>
       </div>
     {{- end }}
-    {{/* --- fin afiche --- */}}
+    {{/* --- fin afiche --- */}}-->
 
 
 
@@ -157,7 +167,7 @@
       "kind"     "organizers"
     ) }}
 
-    {{ partial "sections/pucon-highlights.html" (
+    <!--{{ partial "sections/pucon-highlights.html" (
         dict
         "title" "Sobre Pucón"
         "subtitle" "Atractivos del entorno"
@@ -166,7 +176,7 @@
         "numberOfSessions" "Atractivos naturales"
         "numberOfDays" "Reservas nacionales"
         "location" "Vida nocturna" )
-    }}
+    }}-->
 
 
 {{- end }}
