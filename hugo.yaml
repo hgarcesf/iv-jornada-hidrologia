@@ -186,6 +186,12 @@ params:
                   url: https://www.ufro.cl/
                   logo: logos/partners/Logo_UFRO.png
             organizers:
+                - name: Universidad de Chile
+                  url: https://uchile.cl/
+                  logo: logos/organizers/Logo_UChile.jpeg
+                - name: Facultad de Ciencias Físicas y Matemáticas U Chile
+                  url: https://ingenieria.uchile.cl/
+                  logo: logos/organizers/Logo_FCFM_UChile.png
                 - name: Departamento de Ingeniería Civil U Chile
                   url: https://ingcivil.uchile.cl/
                   logo: logos/organizers/Logo_DIC_UChile.png
