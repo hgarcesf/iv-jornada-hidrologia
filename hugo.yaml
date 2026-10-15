@@ -139,7 +139,7 @@ params:
 #                    eventId: 976108886957
                 other:
                     # url: "https://drive.google.com/file/d/1w5VmZ-Lwz8llZg0Xa6hixNjBjw6RHKeh/view?usp=sharing"
-                    urlForms: "/"
+                    urlForms: "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=dlZiAicyCkScaLttKd5CBrzyjPEW_AxGgd9acDLubl1UMFYwVkU5WkZQOE5JTVhEWkMxR0FXVjBQMi4u"
                 enableBanner: true
 #            socialLinks:
 #                xUrl: https://x.com/medialesson
