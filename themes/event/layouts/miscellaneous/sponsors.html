@@ -4,32 +4,6 @@
 
     <section class="sponsors">
         <div class="section">
-            {{ $validSponsors := slice }}
-            {{ range $sponsor := $event.sponsors }}
-                {{ if and $sponsor.logo $sponsor.url }}
-                    {{ $validSponsors = $validSponsors | append $sponsor }}
-                {{ end }}
-            {{- end }}
-
-            {{ if gt (len $validSponsors) 0 }}
-                <h1 class="heading heading--1">
-                    {{- T "sponsors_page.heading_sponsors" }}
-                </h1>
-                <ul class="sponsors__list">
-                    {{ range $sponsor := $validSponsors }}
-                        <li class="sponsors__list-item">
-                            {{- partial "sponsor-card.html" (
-                                dict
-                                "companyUrl" $sponsor.url
-                                "logoResource" $sponsor.logo
-                                "name" $sponsor.name
-                                )
-                            }}
-                        </li>
-                    {{- end }}
-                </ul>
-            {{ end }}
-
             {{ $validPartners := slice }}
             {{ range $partner := $event.partners }}
                 {{ if and $partner.logo $partner.url }}
@@ -75,6 +49,31 @@
                                 "companyUrl"  $org.url
                                 "logoResource" $org.logo
                                 "name"        $org.name
+                                )
+                            }}
+                        </li>
+                    {{- end }}
+                </ul>
+            {{ end }}
+            {{ $validSponsors := slice }}
+            {{ range $sponsor := $event.sponsors }}
+                {{ if and $sponsor.logo $sponsor.url }}
+                    {{ $validSponsors = $validSponsors | append $sponsor }}
+                {{ end }}
+            {{- end }}
+
+            {{ if gt (len $validSponsors) 0 }}
+                <h1 class="heading heading--1">
+                    {{- T "sponsors_page.heading_sponsors" }}
+                </h1>
+                <ul class="sponsors__list">
+                    {{ range $sponsor := $validSponsors }}
+                        <li class="sponsors__list-item">
+                            {{- partial "sponsor-card.html" (
+                                dict
+                                "companyUrl" $sponsor.url
+                                "logoResource" $sponsor.logo
+                                "name" $sponsor.name
                                 )
                             }}
                         </li>
