@@ -188,6 +188,10 @@ params:
                 - name: Universidad de La Frontera
                   url: https://www.ufro.cl/
                   logo: logos/partners/Logo_UFRO.png
+                - name: Facultad de Ciencias Forestales y de la Conservación de la Naturaleza
+                  logo: logos/partners/Logo_FCFCN_UChile.png
+                  url: https://forestal.uchile.cl/
+
             organizers:
                 - name: Universidad de Chile
                   url: https://uchile.cl/
