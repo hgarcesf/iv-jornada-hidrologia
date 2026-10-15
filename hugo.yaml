@@ -163,6 +163,9 @@ params:
                 - logo: logos/sponsors/Logo_AMTC.png
                   url: https://www.amtc.cl/
                   name: AMTC U de Chile
+                - logo: logos/sponsors/Logo_FyM.jpeg
+                  url: "https://"
+                  name: 'FyM Soluciones con Visión Ambiental'
             partners:
                 - name: Departamento de Ingeniería Civil (U. de Chile)
                   url: https://ingcivil.uchile.cl/
