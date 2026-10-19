@@ -191,6 +191,9 @@ params:
                 - name: Facultad de Ciencias Forestales y de la Conservación de la Naturaleza
                   logo: logos/partners/Logo_FCFCN_UChile.png
                   url: https://forestal.uchile.cl/
+                - name: CIGIDEN R+
+                  logo: logos/partners/Logo_CigidenR+.png
+                  url: https://nuevo.cigiden.cl/
 
             organizers:
                 - name: Universidad de Chile
