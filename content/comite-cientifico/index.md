@@ -9,34 +9,57 @@ layout: default
 
 *Universidad de Chile*
 
-**María Cristina Fragkou**
+**Camila Álvarez Garretón**
 
-*Universidad de Chile*
+*Centro de Ciencia del Clima y la Resiliencia (CR2)*
 
 **Carlos Guzmán**
 
 *Pontificia Universidad Católica de Chile*
 
+**Cristian Martínez Villalobos**
 
-**Sebastián Krögh**
+*Universidad Adolfo Ibáñez*
 
-*Universidad de Concepción*
+**Cristián Chadwick**
+
+*Universidad Adolfo Ibáñez*
+
+**Cristina Contreras**
+
+*Universidad Técnica Federico Santa María*
+
+**Daniel Ugalde**
+
+*Senapred*
+
+**Eduardo Muñoz-Castro**
+
+*ETH Zurich*
+
+**Jorge Gironás**
+
+*Pontificia Universidad Católica de Chile*
+
+**Karina Soto**
+
+*Universidad Técnica Federico Santa María*
 
 **Lucía Scaff**
 
 *Universidad de Concepción*
 
-**Camila Álvarez Garretón**
+**Marcia Paredes**
 
-*Centro de Ciencia del Clima y la Resiliencia (CR2)*
+*Universidad de Chile*
 
-**Paul Muñoz**
+**Marcos Machioli**
 
-*Universidad de Concepción*
+*Universidad de O’Higgins*
 
-**Cristián Chadwick**
+**María Cristina Fragkou**
 
-*Universidad Adolfo Ibáñez*
+*Universidad de Chile*
 
 **María de los Ángeles Ibáñez**
 
@@ -46,46 +69,22 @@ layout: default
 
 *Universidad Técnica Federico Santa María*
 
-**Cristina Contreras**
-
-*Universidad Técnica Federico Santa María*
-
-**Karina Soto**
-
-*Universidad Técnica Federico Santa María*
-
-**Marcos Machioli**
-
-*Universidad de O’Higgins*
-
 **Miguel Lagos Zúñiga**
 
 *Universidad Técnica Federico Santa María*
 
-**Marcia Paredes**
+**Paul Muñoz**
 
-*Universidad de Chile*
+*Universidad de Concepción*
 
-**Cristian Martínez Villalobos**
+**Sebastián Krögh**
 
-*Universidad Adolfo Ibáñez*
-
-**Eduardo Muñoz-Castro**
-
-*ETH Zurich*
-
-**Valentina Medel**
-
-*Universidad Santo Tomás*
-
-**Daniel Ugalde**
-
-*Senapred*
-
-**Jorge Gironás**
-
-*Pontificia Universidad Católica de Chile*
+*Universidad de Concepción*
 
 **Trinidad Henríquez**
 
 *Universidad Técnica Federico Santa María*
+
+**Valentina Medel**
+
+*Universidad Santo Tomás*
