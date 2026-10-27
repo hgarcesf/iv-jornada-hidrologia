@@ -75,13 +75,27 @@ layout: default
     margin-bottom: 1.5rem;
   }
 } */
+.session-details > summary {
+  cursor: pointer;
+  padding: 0.5rem 0;
+}
+
+.session-details > summary h3 {
+  display: inline;
+}
+
+.session-details > summary::marker {
+  color: #003b6f;
+}
+
 </style>
 
 # Sesiones temáticas
 
-<div class="section-container">
+<div class="session-container">
   <div class="section-text">
-    <h3>Sesión 1: "Sociohidrología: gobernanza, participación y decisiones sobre el agua"</h3>
+    <details class="session-details">
+      <summary><h3>Sesión 1: "Sociohidrología: gobernanza, participación y decisiones sobre el agua"</h3></summary>
     <h5><i>Convener:</i> Anahí Ocampo (Facultad de Ciencias Forestales y de Conservación de la Naturaleza, Universidad de Chile)</h5>
     <h5><i>Co-conveners:</i> María Cristina Fragkou (Facultad de Arquitectura y Urbanismo, Universidad de Chile), Carlos Guzmán (Departamento de Ingeniería Hidráulica y Ambiental (DIHA), Pontificia Universidad Católica de Chile)</h5>
     <img class="event-highlights-section__logo2" src="Sesion1_Sociohidrologia.jpeg" alt="Sesión 1 - Sociohidrología">
@@ -98,14 +112,14 @@ layout: default
       <li>Estudios de gobernanza del agua, justicia ambiental y adaptación en las cuencas.</li>
       <li>Integración de conocimientos, datos y toma de decisiones, ciencia ciudadana.</li>
     </ul>
+    </details>
   </div>
 </div>
 
----
-
-<div class="section-container">
+<div class="session-container">
   <div class="section-text">
-    <h3>Sesión 2: "Procesos hidrometeorológicos: dinámica superficie–atmósfera en montaña, valle y costa"</h3>
+    <details class="session-details">
+      <summary><h3>Sesión 2: "Procesos hidrometeorológicos: dinámica superficie–atmósfera en montaña, valle y costa"</h3></summary>
     <h5><i>Convener:</i>: Sebastián Krögh (Departamento de Recursos hídricos, Universidad de Concepción)</h5>
     <h5><i>Co-conveners:</i>: Lucía Scaff (Departamento de Geofísica, Universidad de Concepción), Camila Álvarez (Centro de Ciencia del Clima y la Resiliencia, CR2)</h5>
     <img class="event-highlights-section__logo2" src="Sesion2_ProcesosHidrometeorologicos.jpeg" alt="Sesión 2 - Procesos hidrometeorológicos">
@@ -121,14 +135,14 @@ layout: default
       <li>Análisis de procesos hidrológicos, disponibilidad hídrica y análisis de eventos extremos, utilizando modelación hidrológica acoplada con modelación atmosférica.</li>
       <li>Impacto del cambio climático en procesos hidrometeorológicos y los recursos hídricos.</li>
     </ul>
+    </details>
   </div>
 </div>
 
----
-
-<div class="section-container">
+<div class="session-container">
   <div class="section-text">
-    <h3>Sesión 3: "Pronóstico hidrometeorológico: métodos, desempeño e incertidumbre"</h3>
+    <details class="session-details">
+      <summary><h3>Sesión 3: "Pronóstico hidrometeorológico: métodos, desempeño e incertidumbre"</h3></summary>
     <h5><i>Convener:</i>: Paul Muñoz (Departamento de Recursos Hídricos, Universidad de Concepción)</h5>
     <h5><i>Co-conveners:</i>: Cristián Chadwick (Universidad Adolfo Ibáñez), María de los Ángeles Ibáñez (Pontificia Universidad Católica de Chile)</h5>
     <img class="event-highlights-section__logo2" src="Sesion3_PronosticoHidrometeorologico.jpeg" alt="Sesión 3 - Pronóstico hidrometeorológico">
@@ -143,14 +157,15 @@ layout: default
       <li>Predictibilidad, verificación y cuantificación de la incertidumbre de los pronósticos.</li>
       <li>Pronóstico de eventos hidrometeorológicos extremos, sistemas de alerta temprana y aplicaciones para la toma de decisiones.</li>
     </ul>
+    </details>
   </div>
 </div>
 
----
 
-<div class="section-container">
+<div class="session-container">
   <div class="section-text">
-    <h3>Sesión 4: "Eco-hidrología y gestión ambiental: ecosistemas, calidad y caudales ecológicos"</h3>
+    <details class="session-details">
+      <summary><h3>Sesión 4: "Eco-hidrología y gestión ambiental: ecosistemas, calidad y caudales ecológicos"</h3></summary>
     <h5><i>Convener:</i> María Sol Lisboa (Departamento de Obras Civiles, Universidad Técnica Federico Santa María)</h5>
     <h5><i>Co-conveners:</i>: Cristina Contreras (Departamento de Obras Civiles, Universidad Técnica Federico Santa María), Karina Soto (Departamento de Obras Civiles, Universidad Técnica Federico Santa María), Marcos Machioli (Instituto de Ciencias Agroalimentarias, Animales y Ambientales, Universidad de O’Higgins)</h5>
     <img class="event-highlights-section__logo2" src="Sesion4_HidrologiaAmbiental.jpeg" alt="Sesión 4 - Eco-hidrología">
@@ -166,14 +181,15 @@ layout: default
       <li>Ecosistemas bajo estrés hídrico: impacto ecológico y la respuesta de gestión ante sequías, variaciones en salares y humedales frente a la extracción, y conectividad fluvial.</li>
       <li>Hidrología para la gestión ambiental: apoyo técnico al SEIA, normas secundarias de calidad, humedales urbanos y planes estratégicos de recursos hídricos en cuencas.</li>
     </ul>
+    </details>
   </div>
 </div>
 
----
 
-<div class="section-container">
+<div class="session-container">
   <div class="section-text">
-    <h3>Sesión 5: "Proyecciones hidroclimáticas: escenarios futuros e impactos del cambio climático en los recursos hídricos"</h3>
+    <details class="session-details">
+      <summary><h3>Sesión 5: "Proyecciones hidroclimáticas: escenarios futuros e impactos del cambio climático en los recursos hídricos"</h3></summary>
     <h5><i>Convener:</i> Miguel Lagos Zúñiga (Departamento de Obras Civiles, Universidad Técnica Federico Santa María, Centro de Investigación Interdisciplinaria en Riesgo, Resiliencia y Recuperación ante Desastres (CIGIDEN R+)</h5>
     <h5><i>Co-conveners:</i> Lucía Scaff (Departamento de Geofísica, Universidad de Concepción), Marcia Paredes (Advanced Mining Technology Center, Universidad de Chile), Cristian Martínez Villalobos (Universidad Adolfo Ibáñez)</h5>
     <img class="event-highlights-section__logo2" src="Sesion5_ProyeccionesHidroclimaticas.jpeg" alt="Sesión 5 - Proyecciones hidroclimáticas">
@@ -183,14 +199,14 @@ layout: default
     <p>
     Esta sesión busca reunir investigaciones que presenten avances metodológicos y aplicaciones en estudios hidroclimáticos, incorporando tanto el análisis de condiciones históricas y actuales como la evaluación de posibles cambios futuros. Se invita a presentar trabajos relacionados con observaciones y proyecciones hidroclimáticas, corrección de sesgos, uso de modelos climáticos de alta resolución, evaluación de impactos del cambio climático sobre los recursos hídricos, y nuevas metodologías para su cuantificación y la caracterización de incertidumbre. Finalmente, la sesión busca promover el intercambio de conocimientos y experiencias entre investigadores y profesionales que abordan los desafíos de la hidrología en un contexto de cambio climático, considerando tanto cambios en la disponibilidad y eventos extremos, como sus impactos en la planificación y gestión de infraestructura hídrica.
     </p>
+    </details>
   </div>
 </div>
 
----
-
-<div class="section-container">
+<div class="session-container">
   <div class="section-text">
-    <h3>Sesión 6: "Tecnología, datos y aplicaciones operacionales en hidrología"</h3>
+    <details class="session-details">
+      <summary><h3>Sesión 6: "Tecnología, datos y aplicaciones operacionales en hidrología"</h3></summary>
     <h5><i>Convener:</i> Eduardo Muñoz-Castro (Institute for Atmospheric and Climate Science, ETH Zurich)</h5>
     <h5><i>Co-conveners:</i> Valentina Medel (Departamento de Geología, Universidad Santo Tomás); Daniel Ugalde (Senapred RM, Ministerio del Interior); Jorge Gironás (Departamento de Ingeniería Hidráulica y Ambiental, Pontificia Universidad Católica de Chile); Trinidad Henríquez (Departamento de Obras Civiles, Universidad Técnica Federico Santa María)</h5>
     <img class="event-highlights-section__logo2" src="Sesion6_AplicacionesTecnologia.jpeg" alt="Sesión 6 - Aplicaciones en hidrología">
@@ -205,5 +221,6 @@ layout: default
       <li>Tecnologías para el monitoreo de variables hidrometeorológicas (e.g., sensores de bajo costo).</li>
       <li>Plataformas y bases de datos de apoyo para el estudio de variables hidrometeorológicas y del ciclo del agua en Chile.</li>
     </ul>
+    </details>
   </div>
 </div>
