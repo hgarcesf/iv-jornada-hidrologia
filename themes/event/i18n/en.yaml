@@ -9,7 +9,7 @@ cta_section.heading: Inspira, comparte y transforma la manera en que entendemos 
 cta_section.message: |
 
 header_featured_speakers: Featured Speakers
-speakers_page.heading: Speakers
+speakers_page.heading: Comité Organizador
 speakers_page.social_links: '{{ . }} social media links'
 sessions_page.heading: Programa
 sessions_page.day: Día {{ . }}

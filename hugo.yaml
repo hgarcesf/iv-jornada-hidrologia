@@ -25,6 +25,10 @@ languages:
                 # - identifier: cursos
                 #   pageRef: /cursos
                 #   weight: 40
+                - identifier: speakers
+                  pageRef: /speakers
+                  name: Comité organizador
+                  weight: 30
                 - identifier: sponsors
                   pageRef: /sponsors
                   weight: 50
@@ -120,7 +124,7 @@ params:
         - logos/medicon-512.jpg
     themes:
         event:
-            sessionizeId: jtcrm9tx
+            sessionizeId: 5hrczrkb
             title: IV Jornada de Hidrología
             shortTitle: Inicio
             startDate: 2027-01-20 08:30:00
