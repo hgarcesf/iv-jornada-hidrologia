@@ -40,10 +40,10 @@ languages:
                   pageRef: /sesiones-tematicas
                   name: Sesiones temáticas
                   weight: 20
-                - identifier: norma_autores
-                  pageRef: /guia-presentadores
-                  name: Guía para presentadores
-                  weight: 40
+                # - identifier: norma_autores
+                #   pageRef: /guia-presentadores
+                #   name: Guía para presentadores
+                #   weight: 40
 #                - identifier: resumen-jornada
 #                  pageRef: /resumen
 #                  name: Resumen de la Jornada
@@ -130,11 +130,21 @@ params:
         - logos/medicon-512.jpg
     themes:
         event:
-            sessionizeId: rzzgs5dt
+            sessionizeId: w95z7bns
             title: IV Jornada de Hidrología
             shortTitle: Inicio
             startDate: 2027-01-20 08:30:00
             endDate: 2027-01-22
+            speakerOrder:
+                "310e8200-9b85-44b1-ac70-65980a0a4219": 1 # Pablo
+                "1d1b20c7-52c2-4ac6-8763-13583e8c4601": 2 # Miguel
+                "a0f6fbae-99f5-4e1b-9597-a8f594886270": 3 # Anahi
+                "98966fbb-ea20-414a-8548-f7cd0ace0f0e": 4 # Edu
+                "c0e67177-9db1-40d5-9fda-e3991d7355d4": 5 # MZB
+                "ef12a24f-ba93-4d0e-9a88-fb09cf034494": 6 # Sebastian
+                "98aea167-ca52-4de7-95e0-c7650f05030e": 7 # Alonso
+                "5c34c6dd-fa69-4af5-9005-62b88f8c1083": 8 # Valentina
+                "7a800dbf-7680-464a-83e8-f04368811086": 9 # Maria Sol
             address:
                 - Av. Beauchef 850
                 - Santiago
