@@ -148,6 +148,8 @@ layout: default
     <img class="event-highlights-section__logo2" src="Sesion3_PronosticoHidrometeorologico.jpeg" alt="Sesión 3 - Pronóstico hidrometeorológico">
     <p>
         Esta sesión se centrará en avances científicos y metodológicos para el pronóstico de variables hidrometeorológicas en diferentes escalas espaciales y temporales, así como en la evaluación y mejora de su desempeño. Se invita a presentar contribuciones que aborden el desarrollo, implementación y evaluación de sistemas y metodologías de pronóstico, desde enfoques basados en procesos físicos hasta métodos estadísticos, aprendizaje automático e inteligencia artificial.
+    </p>
+    <p>
     Se consideran, entre otros, los siguientes temas:
     </p>
     <ul>
@@ -171,6 +173,8 @@ layout: default
     <img class="event-highlights-section__logo2" src="Sesion4_HidrologiaAmbiental.jpeg" alt="Sesión 4 - Eco-hidrología">
     <p>
     Esta sesión reúne trabajos que estudian las relaciones entre los procesos hidrológicos y los sistemas ecológicos, y cómo ese conocimiento se traduce en decisiones de gestión, regulación y conservación. Se invitan contribuciones que muestren cómo las observaciones de campo, el monitoreo de calidad y cantidad de agua, la teledetección y el modelamiento permiten definir caudales ambientales, evaluar el estado de los ecosistemas acuáticos y ribereños, diseñar acciones de restauración y respaldar instrumentos normativos. Interesan especialmente los casos de Chile y la región, en un contexto de megasequía, presión creciente sobre las cuencas y nuevas exigencias legales para proteger el agua en su dimensión ecosistémica.
+    </p>
+    <p>
     Se considerarán trabajos que se enmarquen en los siguientes ejes temáticos:
     </p>
     <ul>
@@ -211,7 +215,10 @@ layout: default
     <h5><i>Co-conveners:</i> Valentina Medel (Departamento de Geología, Universidad Santo Tomás); Daniel Ugalde (Senapred RM, Ministerio del Interior); Jorge Gironás (Departamento de Ingeniería Hidráulica y Ambiental, Pontificia Universidad Católica de Chile); Trinidad Henríquez (Departamento de Obras Civiles, Universidad Técnica Federico Santa María)</h5>
     <img class="event-highlights-section__logo2" src="Sesion6_AplicacionesTecnologia.jpeg" alt="Sesión 6 - Aplicaciones en hidrología">
     <p>
-    Esta sesión busca destacar aplicaciones innovadoras que mejoren la observación y la comprensión de la hidrología, fortalezcan la predicción y apoyen la toma de decisiones ante problemáticas como la disponibilidad y la seguridad hídricas, los eventos extremos y la adaptación al cambio climático. En particular, se buscan contribuciones orientadas al desarrollo y la aplicación de nuevas herramientas, metodologías y tecnologías para abordar los desafíos actuales y emergentes en las ciencias hidrológicas. Los trabajos enviados a esta sesión pueden abarcar, por ejemplo, las siguientes temáticas:
+    Esta sesión busca destacar aplicaciones innovadoras que mejoren la observación y la comprensión de la hidrología, fortalezcan la predicción y apoyen la toma de decisiones ante problemáticas como la disponibilidad y la seguridad hídricas, los eventos extremos y la adaptación al cambio climático. En particular, se buscan contribuciones orientadas al desarrollo y la aplicación de nuevas herramientas, metodologías y tecnologías para abordar los desafíos actuales y emergentes en las ciencias hidrológicas.
+    </p>
+    <p>
+    Los trabajos enviados a esta sesión pueden abarcar, por ejemplo, las siguientes temáticas:
     </p>
     <ul>
       <li>Decisiones operacionales basadas en pronósticos y lecciones aprendidas de proyectos reales.</li>
