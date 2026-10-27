@@ -1,7 +1,7 @@
 {{ $input := . }}
 
 
-<div class="speaker-card">
+<div class="speaker-card" style="min-height: 22rem; padding-bottom: 1.5rem;">
     <a class="speaker-card__link" href="{{ $input.profileUrl }}" aria-label="{{ $input.name }}">
         {{ with $input.avatarResource }}
             {{ with . | images.Filter (images.Process "resize 256x") }}
@@ -23,7 +23,9 @@
             {{- end }}
         {{- end }}
         <h1 class="heading">{{ $input.name }}</h1>
-        <p class="speaker-card__description">{{ $input.description }}</p>
+        <p class="speaker-card__description" style="display: block; max-height: none; overflow: visible;">
+            {{ $input.description }}
+        </p>
     </a>
     <div class="speaker-card__social-links">
         {{ $ariaLabel := T "speakers_page.social_links" $input.name }}
