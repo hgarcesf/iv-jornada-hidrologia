@@ -29,6 +29,10 @@ languages:
                   pageRef: /speakers
                   name: Comité organizador
                   weight: 30
+                - identifier: comite_cientifico
+                  pageRef: /comite-cientifico
+                  name: Comité científico
+                  weight: 35
                 - identifier: sponsors
                   pageRef: /sponsors
                   weight: 50
@@ -39,7 +43,7 @@ languages:
                 - identifier: norma_autores
                   pageRef: /guia-presentadores
                   name: Guía para presentadores
-                  weight: 30
+                  weight: 40
 #                - identifier: resumen-jornada
 #                  pageRef: /resumen
 #                  name: Resumen de la Jornada
