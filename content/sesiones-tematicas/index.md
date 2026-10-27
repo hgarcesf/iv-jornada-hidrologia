@@ -47,8 +47,8 @@ layout: default
 
 .event-highlights-section__logo2 {
   flex: 1 1 300px;
-  max-width: 25rem;
-  max-height: 25rem;
+  max-width: 20rem;
+  max-height: 20rem;
   width: auto;
   height: auto;
   display: block;
