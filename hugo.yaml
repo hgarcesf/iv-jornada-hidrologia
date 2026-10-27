@@ -157,7 +157,7 @@ params:
 #                linkedinUrl: https://de.linkedin.com/company/medialesson-gmbh
             images:
                 logo: logos/Logo_YHS-CL.png
-                titleBackground: images/pexels-caleboquendo-3023317.webp
+                titleBackground: images/main.jpg
                 # location: images/pucon_img_web.jpeg
                 locationImg: images/Mapa2_Campus_Beauchef_Auditorio_DEtigny_1.png
             sponsors:
