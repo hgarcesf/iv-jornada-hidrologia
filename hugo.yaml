@@ -102,11 +102,13 @@ languages:
                         - Sociohidrología: gobernanza, participación y decisiones sobre el agua
 
                     locationDescription: |
-                        En el corazón de La Araucanía, entre **montañas, lagos y volcanes**, Pucón se alza como el escenario perfecto para la III Jornada de Hidrología en Chile. Este destino no solo invita a reflexionar sobre el agua, sino también a vivirla: fluyendo en sus ríos, cayendo en sus cascadas y respirándose en cada rincón.
+                        La **Facultad de Ciencias Físicas y Matemáticas (FCFM)** de la Universidad de Chile —conocida popularmente como **Beauchef**— es uno de los centros de educación superior, investigación y desarrollo tecnológico más importantes del país.
 
-                        Aquí, la inspiración brota con la misma fuerza que el **volcán Villarrica**, los senderos del Parque Nacional Huerquehue y las aguas termales que emergen entre bosques nativos.
+                        Fundada en 1842, imparte carreras de pregrado y programas de postgrado en áreas como ingeniería, ciencias de la computación, astronomía, física, geofísica y geología.
 
-                        Después de las sesiones y presentaciones, podrás desconectarte con **panoramas únicos**: navegar por el Lago Villarrica, recorrer miradores, o simplemente disfrutar de una noche frente al fuego con vistas al volcán.
+                        - **Dirección principal**: Av. Beauchef 850 / 851, Santiago, Región Metropolitana (Campus Beauchef).
+                        - **Metro más cercano**: Estaciones Parque O'Higgins y Toesca (Línea 2), a pocos minutos caminando.
+
                     auxDescription: |
                         Es un agrado comunicarles que recibimos cerca de **60 trabajos** y aproximadamente **100 inscritos** en total.
 
@@ -152,8 +154,8 @@ params:
             images:
                 logo: logos/Logo_YHS-CL.png
                 titleBackground: images/pexels-caleboquendo-3023317.webp
-                location: images/pucon_img_web.jpeg
-                locationImg: images/pucon_img_web.jpeg
+                # location: images/pucon_img_web.jpeg
+                locationImg: images/Mapa2_Campus_Beauchef_Auditorio_DEtigny_1.png
             sponsors:
                 - logo: logos/sponsors/Logo_Montgomery.webp
                   url: https://elmontgomery.com/es/

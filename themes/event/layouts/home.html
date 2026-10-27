@@ -167,16 +167,13 @@
       "kind"     "organizers"
     ) }}-->
 
-    <!--{{ partial "sections/pucon-highlights.html" (
+    {{ partial "sections/pucon-highlights.html" (
         dict
-        "title" "Sobre Pucón"
-        "subtitle" "Atractivos del entorno"
+        "title" "Ubicación"
+        "subtitle" "Campus Beauchef"
         "description" .Site.Params.themes.event.locationDescription
-        "logo" .Site.Params.themes.event.images.locationImg
-        "numberOfSessions" "Atractivos naturales"
-        "numberOfDays" "Reservas nacionales"
-        "location" "Vida nocturna" )
-    }}-->
+        "logo" .Site.Params.themes.event.images.locationImg)
+    }}
 
 
 {{- end }}
