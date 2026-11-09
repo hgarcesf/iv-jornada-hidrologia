@@ -189,6 +189,9 @@ params:
                 - logo: logos/sponsors/Logo_Hidromas.png
                   url: "https://hidromas.cl/"
                   name: "Hidromas"
+                - logo: logos/sponsors/Logo_ICASS.png
+                  url: "https://icass.cl/"
+                  name: "ICASS"
             partners:
                 - name: Departamento de Ingeniería Civil (U. de Chile)
                   url: https://ingcivil.uchile.cl/
