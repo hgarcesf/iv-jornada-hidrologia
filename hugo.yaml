@@ -130,7 +130,7 @@ params:
         - logos/medicon-512.jpg
     themes:
         event:
-            sessionizeId: w95z7bns
+            sessionizeId: 7dclrl9l
             title: IV Jornada de Hidrología
             shortTitle: Inicio
             startDate: 2027-01-20 08:30:00
@@ -145,6 +145,11 @@ params:
                 "98aea167-ca52-4de7-95e0-c7650f05030e": 7 # Alonso
                 "5c34c6dd-fa69-4af5-9005-62b88f8c1083": 8 # Valentina
                 "7a800dbf-7680-464a-83e8-f04368811086": 9 # Maria Sol
+                "9ff2e85c-6f78-4d0b-8a2d-cab859e628c7": 10 # Catalina
+                "0a450040-9e7a-4bc9-85f3-e74e12f3fad5": 11 # Hector
+                "a4d3e8ee-4b9c-4b6d-ba99-f4846ce9f4c3": 12 # Katherine
+                "26298/0ede3f83-8863-4cdd-952b-e7aaf2ecc207": 13 # Pedro Pablo
+                "ca761049-e893-42bd-92da-7164b693629e": 14 # Rui
             address:
                 - Av. Beauchef 850
                 - Santiago
