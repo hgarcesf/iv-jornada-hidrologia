@@ -121,7 +121,7 @@ layout: default
     <details class="session-details">
       <summary><h3>Sesión 2: "Procesos hidrometeorológicos: dinámica superficie–atmósfera en montaña, valle y costa"</h3></summary>
     <h5><i>Convener:</i>: Sebastián Krögh (Departamento de Recursos hídricos, Universidad de Concepción)</h5>
-    <h5><i>Co-conveners:</i>: Lucía Scaff (Departamento de Geofísica, Universidad de Concepción), Camila Álvarez (Centro de Ciencia del Clima y la Resiliencia, CR2)</h5>
+    <h5><i>Co-conveners:</i> Lucía Scaff (Departamento de Geofísica, Universidad de Concepción), Camila Álvarez (Centro de Ciencia del Clima y la Resiliencia, CR2)</h5>
     <img class="event-highlights-section__logo2" src="Sesion2_ProcesosHidrometeorologicos.jpeg" alt="Sesión 2 - Procesos hidrometeorológicos">
     <p>
     Esta sesión se centra en la relación de fenómenos meteorológicos con la hidrología y sus procesos a distintas escalas espaciales (ladera, cuenca y sinóptica) y temporales (subdiaria, diaria, mensual e interanual). Se presentarán análisis empíricos de observaciones hidrometeorológicas y modelación numérica en sistemas de montaña, el valle central y zonas costeras, con el fin de mejorar la comprensión y caracterización de procesos físicos dominantes bajo condiciones climáticas históricas y escenarios de cambio climático y uso de suelo. Así también, se espera contar con aplicaciones de modelos hidrológicos, meteorológicos y de interacción superficie-atmósfera para análisis de diagnóstico de eventos extremos, disponibilidad hídrica e interacción entre procesos.
@@ -144,7 +144,7 @@ layout: default
     <details class="session-details">
       <summary><h3>Sesión 3: "Pronóstico hidrometeorológico: métodos, desempeño e incertidumbre"</h3></summary>
     <h5><i>Convener:</i>: Paul Muñoz (Departamento de Recursos Hídricos, Universidad de Concepción)</h5>
-    <h5><i>Co-conveners:</i>: Cristián Chadwick (Universidad Adolfo Ibáñez), María de los Ángeles Ibáñez (Pontificia Universidad Católica de Chile)</h5>
+    <h5><i>Co-conveners:</i> Cristián Chadwick (Universidad Adolfo Ibáñez), María de los Ángeles Ibáñez (Pontificia Universidad Católica de Chile)</h5>
     <img class="event-highlights-section__logo2" src="Sesion3_PronosticoHidrometeorologico.jpeg" alt="Sesión 3 - Pronóstico hidrometeorológico">
     <p>
         Esta sesión se centrará en avances científicos y metodológicos para el pronóstico de variables hidrometeorológicas en diferentes escalas espaciales y temporales, así como en la evaluación y mejora de su desempeño. Se invita a presentar contribuciones que aborden el desarrollo, implementación y evaluación de sistemas y metodologías de pronóstico, desde enfoques basados en procesos físicos hasta métodos estadísticos, aprendizaje automático e inteligencia artificial.
@@ -169,7 +169,7 @@ layout: default
     <details class="session-details">
       <summary><h3>Sesión 4: "Eco-hidrología y gestión ambiental: ecosistemas, calidad y caudales ecológicos"</h3></summary>
     <h5><i>Convener:</i> María Sol Lisboa (Departamento de Obras Civiles, Universidad Técnica Federico Santa María)</h5>
-    <h5><i>Co-conveners:</i>: Cristina Contreras (Departamento de Obras Civiles, Universidad Técnica Federico Santa María), Karina Soto (Departamento de Obras Civiles, Universidad Técnica Federico Santa María), Marcos Machioli (Instituto de Ciencias Agroalimentarias, Animales y Ambientales, Universidad de O’Higgins)</h5>
+    <h5><i>Co-conveners:</i> Cristina Contreras (Departamento de Obras Civiles, Universidad Técnica Federico Santa María), Karina Soto (Departamento de Obras Civiles, Universidad Técnica Federico Santa María), Marcos Machioli (Instituto de Ciencias Agroalimentarias, Animales y Ambientales, Universidad de O’Higgins)</h5>
     <img class="event-highlights-section__logo2" src="Sesion4_HidrologiaAmbiental.jpeg" alt="Sesión 4 - Eco-hidrología">
     <p>
     Esta sesión reúne trabajos que estudian las relaciones entre los procesos hidrológicos y los sistemas ecológicos, y cómo ese conocimiento se traduce en decisiones de gestión, regulación y conservación. Se invitan contribuciones que muestren cómo las observaciones de campo, el monitoreo de calidad y cantidad de agua, la teledetección y el modelamiento permiten definir caudales ambientales, evaluar el estado de los ecosistemas acuáticos y ribereños, diseñar acciones de restauración y respaldar instrumentos normativos. Interesan especialmente los casos de Chile y la región, en un contexto de megasequía, presión creciente sobre las cuencas y nuevas exigencias legales para proteger el agua en su dimensión ecosistémica.
@@ -195,7 +195,7 @@ layout: default
     <details class="session-details">
       <summary><h3>Sesión 5: "Proyecciones hidroclimáticas: escenarios futuros e impactos del cambio climático en los recursos hídricos"</h3></summary>
     <h5><i>Convener:</i> Miguel Lagos Zúñiga (Departamento de Obras Civiles, Universidad Técnica Federico Santa María, Centro de Investigación Interdisciplinaria en Riesgo, Resiliencia y Recuperación ante Desastres (CIGIDEN R+)</h5>
-    <h5><i>Co-conveners:</i> Lucía Scaff (Departamento de Geofísica, Universidad de Concepción), Marcia Paredes (Advanced Mining Technology Center, Universidad de Chile), Cristian Martínez Villalobos (Universidad Adolfo Ibáñez)</h5>
+    <h5><i>Co-conveners:</i> Marcia Paredes (Advanced Mining Technology Center, Universidad de Chile), Cristian Martínez Villalobos (Universidad Adolfo Ibáñez)</h5>
     <img class="event-highlights-section__logo2" src="Sesion5_ProyeccionesHidroclimaticas.jpeg" alt="Sesión 5 - Proyecciones hidroclimáticas">
     <p>
     El cambio climático y la variabilidad climática natural plantean nuevos desafíos para la comprensión, cuantificación y gestión de los recursos hídricos. En este contexto, los estudios hidroclimáticos permiten avanzar en la caracterización de la variabilidad de los sistemas hidrológicos, en la comprensión de sus principales procesos y en la evaluación de sus posibles cambios bajo distintos escenarios climáticos.
