@@ -2,5 +2,5 @@ menu.imprint: Imprint
 menu.privacy: Privacy Policy
 cta_button.get_ticket: Formulario de inscripción
 cta_button.forms: Completa el formulario
-# cta_banner.message: |
-  # <strong>Recibimos cerca de 60 trabajos y aproximadamente 100 inscritos!</strong><br>
+cta_banner.message: |
+  <strong>Fecha límite para enviar resúmenes: viernes 11 de diciembre de 2026 a las 23:59 GMT-3</strong><br>
